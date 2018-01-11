@@ -1,0 +1,48 @@
+.middel
+{
+    border: solid 2px #ffcce9;
+    background-color: #ffd5fd;
+    overflow: hidden;
+}
+.middelw
+{
+    border: solid 5px #ffe7f8;
+    margin-top: 100px;
+}
+.Tablist
+{
+    width: 180px;
+    border: solid 1px #f8b2ff;
+    overflow: hidden;
+    float: left;
+}
+.name
+{
+    height: 30px;
+    border: solid 1px #ffd6f1;
+    background-color: #ffaaf1;
+}
+.Tablist p {
+    width: 145px;
+    height: 30px;
+    border: solid 1px #ffd8f4;
+    background-color: #ffc6ec;
+    margin: 0 auto;
+    text-align: center;
+}
+.right
+{
+    width: 1080px;
+    border: solid 1px #f8b2ff;
+    overflow: hidden;
+    float: right;
+}
+.film
+{
+    width: 300px;
+    height: 250px;
+    border: solid 1px #ffd8f4;
+    background-color: #ffc6ec;
+    float: left;
+    margin: 29px;
+}
