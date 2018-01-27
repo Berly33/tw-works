@@ -21,11 +21,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <!-- Custom Theme files -->
     <link href="css/style.css" rel='stylesheet' type='text/css' media="all"/>
     <script src="js/jquery-1.11.1.min.js"></script>
-    <!--start-smoth-scrolling-->
-    <!-- fonts -->
-    <!--<link href='http://fonts.useso.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>-->
-    <!--<link href='http://fonts.useso.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>-->
-    <!-- //fonts -->
+    <script src="js/info/data.js"></script>
+    <script src="js/info/index.js"></script>
 </head>
 <body>
 
@@ -102,11 +99,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="main-grids">
         <div class="top-grids">
             <div class="recommended-info">
-                <h3>Recent Videos</h3>
+                <h3>最新电影</h3>
             </div>
+
+            <!--最新电影的第一部-->
             <div class="col-md-4 resent-grid recommended-grid slider-top-grids">
                 <div class="resent-grid-img recommended-grid-img">
-                    <a href="single.html"><img src="images/t1.jpg" alt=""/></a>
+                    <a href="single.html"><img src="" id="pic1"  alt=""/></a>
                     <div class="time">
                         <p>3:04</p>
                     </div>
@@ -115,14 +114,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     </div>
                 </div>
                 <div class="resent-grid-info recommended-grid-info">
-                    <h3><a href="single.html" class="title title-info">Pellentesque vitae pulvinar tortor nullam
-                        interdum metus a imperdiet</a></h3>
+                    <h3><a href="single.html" class="title title-info" id="new1">
+                        <!--龙猫-->
+                    </a></h3>
                     <ul>
                         <li><p class="author author-info"><a href="#" class="author">John Maniya</a></p></li>
                         <li class="right-list"><p class="views views-info">2,114,200 views</p></li>
                     </ul>
                 </div>
             </div>
+
+            <!--最新电影的第二部-->
             <div class="col-md-4 resent-grid recommended-grid slider-top-grids">
                 <div class="resent-grid-img recommended-grid-img">
                     <a href="single.html"><img src="images/t2.jpg" alt=""/></a>
@@ -142,6 +144,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     </ul>
                 </div>
             </div>
+
+            <!--最新电影的第三部-->
             <div class="col-md-4 resent-grid recommended-grid slider-top-grids">
                 <div class="resent-grid-img recommended-grid-img">
                     <a href="single.html"><img src="images/t3.jpg" alt=""/></a>
