@@ -1,12 +1,18 @@
-window.onload=function(){
-    init();
-    img()
+window.onload = function () {
+    name();
+    img();
+    id()
 };
-function init() {
+
+function name() {
     var node = document.getElementById("new1");
     node.innerHTML = new1[0].name;
 }
 
 function img() {
     document.getElementById("pic1").src = new1[0].img;
+}
+
+function id() {
+    var node = document.getElementById("new1");
 }
