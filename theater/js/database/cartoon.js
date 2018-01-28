@@ -95,5 +95,5 @@ var cartoon1 = [
         casts:"志田未来,神木隆之介,三浦友和",
         genres:"动画,奇幻,冒险",
         image:"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p617533616.jpg"
-    },
-];
+    }
+]

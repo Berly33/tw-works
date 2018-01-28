@@ -12,22 +12,18 @@
 
 ## #2 任务详情
 
-- **任务需求**
+- 任务需求
+  - [用户故事列表](https://github.com/tws-practice/tw-movie-theater/blob/master/user-stories.md)
 
-[用户故事列表](https://github.com/tws-practice/tw-movie-theater/blob/master/user-stories.md)
+- 参考页面
+  - [页面UI原型图](https://stormxing.oss-cn-beijing.aliyuncs.com/images/theater.png)
 
+- 参考接口信息
+  - [一些电影信息的接口](https://github.com/tws-practice/tw-movie-theater/blob/master/movies.csv)
 
-- **参考页面**
+## #3 时间
 
-[页面UI原型图](https://github.com/tws-practice/tw-movie-theater/blob/master/prototype.svg)
-
-- **参考接口信息**
-
-[一些电影信息的接口](https://github.com/tws-practice/tw-movie-theater/blob/master/movies.csv)
-
-## #3 大作业时间
-
-2018年1月7日 ~ 2018年2月7日
+- 2018年1月7日 ~ 2018年2月7日
 
 ## #4 练习目标
 
