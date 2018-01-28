@@ -1,4 +1,99 @@
-// 动画/冒险片
-var cartoon1= [
-    {}
-];
+//动画片
+var cartoon1 = [
+    {
+        id:1858711,
+        alt:"https://movie.douban.com/subject/1858711/",
+        year:2010,
+        title:"玩具总动员3",
+        rating:8.7,
+        original_title:"Toy Story 3",
+        directors:"李·昂克里奇",
+        casts:"汤姆·汉克斯,蒂姆·艾伦,琼·库萨克",
+        genres:"喜剧,动画,奇幻",
+        image:"https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1283675359.jpg"
+    },
+    {
+        id:1865703,
+        alt:"https://movie.douban.com/subject/1865703/",
+        year:2006,
+        title:"红辣椒",
+        rating:8.8,
+        original_title:"パプリカ",
+        directors:"今敏",
+        casts:"林原惠美,古谷彻,江守彻",
+        genres:"动画,悬疑,科幻",
+        image:"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p672363704.jpg"
+    },
+    {
+        id:1907966,
+        alt:"https://movie.douban.com/subject/1907966/",
+        year:2013,
+        title:"疯狂原始人",
+        rating:8.7,
+        original_title:"The Croods",
+        directors:"柯克·德·米科,克里斯·桑德斯",
+        casts:"尼古拉斯·凯奇,瑞恩·雷诺兹,艾玛·斯通",
+        genres:"喜剧,动画,冒险",
+        image:"https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1867084027.jpg"
+    },
+    {
+        id:24750126,
+        alt:"https://movie.douban.com/subject/24750126/",
+        year:2014,
+        title:"荒蛮故事",
+        rating:8.7,
+        original_title:"Relatos salvajes",
+        directors:"达米安·斯兹弗隆",
+        casts:"金妮弗·古德温,杰森·贝特曼,伊德里斯·艾尔巴",
+        genres:"喜剧,动作,动画",
+        image:"https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2315672647.jpg"
+    },
+    {
+        id:10533913,
+        alt:"https://movie.douban.com/subject/10533913/",
+        year:2015,
+        title:"头脑特工队",
+        rating:8.7,
+        original_title:"Inside Out",
+        directors:"彼特·道格特,罗纳尔多·德尔·卡门",
+        casts:"艾米·波勒,菲利丝·史密斯,理查德·坎德",
+        genres:"喜剧,动画,冒险",
+        image:"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2266293606.jpg"
+    },
+    {
+        id:6534248,
+        alt:"https://movie.douban.com/subject/6534248/",
+        year:2012,
+        title:"无敌破坏王",
+        rating:8.6,
+        original_title:"Wreck-It Ralph",
+        directors:"瑞奇·摩尔",
+        casts:"简·林奇,约翰·C·赖利,萨拉·西尔弗曼",
+        genres:"喜剧,动画,冒险",
+        image:"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1735642656.jpg"
+    },
+    {
+        id:5989818,
+        alt:"https://movie.douban.com/subject/5989818/",
+        year:2011,
+        title:"萤火之森",
+        rating:8.7,
+        original_title:"蛍火の杜へ",
+        directors:"大森贵弘",
+        casts:"佐仓绫音,内山昂辉",
+        genres:"剧情,爱情,动画",
+        image:"https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1272904657.jpg"
+    },
+    {
+        id:4202302,
+        alt:"https://movie.douban.com/subject/4202302/",
+        year:2010,
+        title:"借东西的小人阿莉埃蒂",
+        rating:8.7,
+        original_title:"借りぐらしのアリエッティ",
+        directors:"米林宏昌",
+        casts:"志田未来,神木隆之介,三浦友和",
+        genres:"动画,奇幻,冒险",
+        image:"https://img3.doubanio.com/view/movie_poster_cover/spst/public/p617533616.jpg"
+    }
+]
